@@ -1,8 +1,7 @@
 ﻿// Created : 2014 03 02 2:39 PM : drink-bitch-drink-csharp : Assembly-CSharp-vs
-// Changed : 2014 03 04 9:09 PM : Вадим Караваев
+// Changed : 2014 03 11 9:15 PM : Вадим Караваев
 
-//#define DEVEL
-
+#define DEVELNOT
 using UnityEngine;
 using Random = System.Random;
 
@@ -52,7 +51,7 @@ public class DrinkBITCHES : MonoBehaviour
 #if DEVEL
 		else if (_count > 5)
 #else
-		else if (_count > 50)
+		else if (_count > 55)
 #endif
 		{
 			_count--;

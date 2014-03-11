@@ -13,7 +13,7 @@ Platform assembly: D:\Desktop\drink-bitch-drink\DrinkBitch_Data\Managed\Assembly
 Loading D:\Desktop\drink-bitch-drink\DrinkBitch_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: D:\Desktop\drink-bitch-drink\DrinkBitch_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
 Loading D:\Desktop\drink-bitch-drink\DrinkBitch_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-- Completed reload, in  0.047 seconds
+- Completed reload, in  0.064 seconds
 desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
